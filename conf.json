@@ -1,0 +1,10 @@
+[
+    {
+        "input": [2, 4, 5, 6, 9],
+        "code": "console.log(array[0] + array[1]);"
+    },
+    {
+        "input": ["Pippo", "Pluto", "Paperino"],
+        "code": "console.log('selectedUser: ' + array[1]);"
+    }
+]
